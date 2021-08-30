@@ -8,7 +8,7 @@ import com.qa.base.TestBase;
 public class TestCases extends TestBase {
 
 	com.qa.pages.LoginPage loginpage;
-	
+//this code is commited in git repo	
 	@BeforeMethod
 	
 	public void setup() {
